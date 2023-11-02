@@ -1,0 +1,63 @@
+a {
+    float: right;
+    padding-top: 15px;
+    margin: 2px;
+    font-size: 15px;
+    color: black;
+    margin: 10px;
+}
+form {
+    text-align: center;
+    padding: 40px;
+    background-color: blueviolet;
+}
+input {
+    text-align: center;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+body {
+    height: 600;
+    width: 600;
+}
+h2 {
+    color: blueviolet;
+    background-color: light gray;
+}
+div {
+    background-color: lightgrey;
+    padding: 1px;
+    width: 100%;
+}
+#a {
+    border-radius: 15px;
+    width: 50%;
+    height: 25px;
+}
+p {
+    background-color: white;
+    text-align: left;
+}
+#b {
+    background-color: white;
+}
+#c {
+    background-color: white;
+}
+#d {
+    background-color: blue;
+    color: white
+}
+h3 {
+    text-align: left;
+    font-size:x-large;
+    color: red;
+    background-color: white;
+}
+h4 {
+    text-align: left;
+}
